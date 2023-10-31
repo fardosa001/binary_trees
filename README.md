@@ -6,4 +6,6 @@
 
 ***0-binary_tree_node.c*** -> *Creates binary tree node*
 
-***0-binary_tree_node.c*** -> *Insert node left of parent*
+***1-binary_tree_insert_left.c*** -> *Insert node left of parent*
+
+***2-binary_tree_insert_right.c*** -> *Insert node right of parent*
