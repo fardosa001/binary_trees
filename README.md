@@ -13,3 +13,5 @@
 ***3-binary_tree_delete.c*** -> *Deletes a whole binary tree*
 
 ***4-binary_tree_is_leaf.c*** -> *Is leaf*
+
+***5-binary_tree_is_root.c*** -> *Is root*
