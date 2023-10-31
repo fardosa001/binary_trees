@@ -1,16 +1,16 @@
 #include "binary_trees.h"
 
 /**
- * inorderTraversal - delete subtrees and leafs
+ * postorderTraversal - delete subtrees and leafs
  *
  * @tree: pointer to root node
  */
-void inorderTraversal(binary_tree_t *tree)
+void postorderTraversal(binary_tree_t *tree)
 {
 	if (tree == NULL)
 		return;
-	inorderTraversal(tree->left);
-	inorderTraversal(tree->right);
+	postorderTraversal(tree->left);
+	postorderTraversal(tree->right);
 	free(tree);
 }
 
@@ -24,5 +24,5 @@ void binary_tree_delete(binary_tree_t *tree)
 {
 	if (tree == NULL)
 		return;
-	inorderTraversal(tree);
+	postorderTraversal(tree);
 }
