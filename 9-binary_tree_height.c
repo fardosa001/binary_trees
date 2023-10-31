@@ -7,17 +7,19 @@
  */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
-	size_t rightHeight, leftHeight;
+	size_t right_Height, left_Height;
 
 	if (tree == NULL)
 		return (0);
 
-	/* Recursively calculate the height of the left and right subtrees*/
-	rightHeight = binary_tree_height(tree->right);
-	leftHeight = binary_tree_height(tree->left);
+	if (tree->left == NULL && tree->right == NULL)
+		return (0);
 
-	if (rightHeight > leftHeight)
-		return (rightHeight + 1);
+	left_Height = binary_tree_height(tree->left);
+	right_Height = binary_tree_height(tree->right);
+
+	if (left_Height > right_Height)
+		return (left_Height + 1);
 	else
-		return (leftHeight + 1);
+		return (right_Height + 1);
 }
