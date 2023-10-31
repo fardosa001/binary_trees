@@ -21,3 +21,5 @@
 ***7-binary_tree_inorder.c*** -> *Inorder traversal*
 
 ***8-binary_tree_postorder.c*** -> *Post-order traversal*
+
+***9-binary_tree_height.c*** -> *Return tree's height*
