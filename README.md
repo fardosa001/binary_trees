@@ -19,3 +19,5 @@
 ***6-binary_tree_preorder.c*** -> *preoder traversal*
 
 ***7-binary_tree_inorder.c*** -> *Inorder traversal*
+
+***8-binary_tree_postorder.c*** -> *Post-order traversal*
