@@ -9,3 +9,5 @@
 ***1-binary_tree_insert_left.c*** -> *Insert node left of parent*
 
 ***2-binary_tree_insert_right.c*** -> *Insert node right of parent*
+
+***3-binary_tree_delete.c*** -> *Deletes a whole binary tree*
