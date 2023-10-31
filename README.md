@@ -15,3 +15,5 @@
 ***4-binary_tree_is_leaf.c*** -> *Is leaf*
 
 ***5-binary_tree_is_root.c*** -> *Is root*
+
+***6-binary_tree_preorder.c*** -> *preoder traversal*
