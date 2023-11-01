@@ -27,3 +27,5 @@
 ***10-binary_tree_depth.c*** -> *Returns depth of the tree*
 
 ***11-binary_tree_size.c*** -> *Returns size of the tree*
+
+***12-binary_tree_leaves.c*** -> *Return number of leaves*
