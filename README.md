@@ -29,3 +29,5 @@
 ***11-binary_tree_size.c*** -> *Returns size of the tree*
 
 ***12-binary_tree_leaves.c*** -> *Return number of leaves*
+
+***13-binary_tree_nodes.c*** -> *counts the nodes with at least 1 child in a binary tree*
