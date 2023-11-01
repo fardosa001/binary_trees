@@ -37,3 +37,5 @@
 ***15-binary_tree_is_full.c*** -> *Checks if a binary tree is a full binary tree*
 
 ***16-binary_tree_is_perfect.c*** -> *Checks if a binary tree is perfect*
+
+***17-binary_tree_sibling.c*** -> *Finds the sibling of a node*
