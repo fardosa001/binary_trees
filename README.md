@@ -33,3 +33,5 @@
 ***13-binary_tree_nodes.c*** -> *counts the nodes with at least 1 child in a binary tree*
 
 ***14-binary_tree_balance.c*** -> *Measures the balance factor of a binary tree*
+
+***15-binary_tree_is_full.c*** -> *Checks if a binary tree is a full binary tree*
