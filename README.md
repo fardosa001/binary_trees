@@ -39,3 +39,5 @@
 ***16-binary_tree_is_perfect.c*** -> *Checks if a binary tree is perfect*
 
 ***17-binary_tree_sibling.c*** -> *Finds the sibling of a node*
+
+***18-binary_tree_uncle.c*** -> *Finds uncle of a node*
