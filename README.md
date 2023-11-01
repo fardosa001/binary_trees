@@ -23,3 +23,5 @@
 ***8-binary_tree_postorder.c*** -> *Post-order traversal*
 
 ***9-binary_tree_height.c*** -> *Return tree's height*
+
+***10-binary_tree_depth.c*** -> *Returns depth of the tree*
